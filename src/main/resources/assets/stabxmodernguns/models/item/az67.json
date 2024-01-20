@@ -1,0 +1,22 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "stabxmodernguns:item/gui_icons/weapons/assault_rifles/az67"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-0.75, 2.25, -6.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-0.75, 2.25, -6.5]
+		},
+		"firstperson_righthand": {
+			"translation": [-5.25, 5.25, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"translation": [-5.25, 5.25, 0],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "stabxmodernguns:item/gui_icons/weapons/pistols/500magnum"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 4.75, -5.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 4.75, -5.75]
+		},
+		"firstperson_righthand": {
+			"translation": [-5, 8.5, -2.75]
+		},
+		"firstperson_lefthand": {
+			"translation": [-5, 8.5, -2.75]
+		}
+	}
+}

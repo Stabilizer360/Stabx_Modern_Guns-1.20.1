@@ -1,0 +1,12 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "count": 35,
+      "item": "stabxmodernguns:gun_steel_ingot"
+    }
+  ],
+  "result": {
+    "item": "stabxmodernguns:zxr_mp7"
+  }
+}

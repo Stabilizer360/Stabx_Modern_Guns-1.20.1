@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "stabxmodernguns:item/gui_icons/stock_attachments/anti_recoil_stock"
+	}
+}

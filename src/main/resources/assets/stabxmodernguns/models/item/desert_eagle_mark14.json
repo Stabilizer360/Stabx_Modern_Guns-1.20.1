@@ -1,0 +1,24 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "stabxmodernguns:item/gui_icons/weapons/pistols/desert_eagle_mark14"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 1.25, -6.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 1.25, -6.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"translation": [-5, 4.75, -3],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"firstperson_lefthand": {
+			"translation": [-5, 5, -2.75],
+			"scale": [0.45, 0.45, 0.45]
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "stabxmodernguns:item/gui_icons/weapons/smgs/zxr_mp7"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 1, -0.75],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 1, -0.75],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_righthand": {
+			"translation": [-5.5, 4.75, 4.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"translation": [-5.5, 4.75, 4.5],
+			"scale": [0.6, 0.6, 0.6]
+		}
+	}
+}

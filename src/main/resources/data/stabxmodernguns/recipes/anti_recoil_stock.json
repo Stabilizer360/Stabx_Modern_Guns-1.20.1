@@ -1,0 +1,17 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "count": 10,
+      "item": "stabxmodernguns:gun_steel_ingot"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:black_dye"
+    }
+  
+  ],
+  "result": {
+    "item": "stabxmodernguns:anti_recoil_stock"
+  }
+}

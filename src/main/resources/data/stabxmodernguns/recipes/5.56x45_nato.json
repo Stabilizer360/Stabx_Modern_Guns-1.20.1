@@ -1,0 +1,17 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "count": 2,
+      "item": "stabxmodernguns:smokeless_gunpowder"
+    },
+    {
+      "count": 6,
+      "item": "minecraft:copper_ingot"
+    }
+  ],
+  "result": {
+    "count": 64,
+    "item": "stabxmodernguns:5.56x45_nato"
+  }
+}

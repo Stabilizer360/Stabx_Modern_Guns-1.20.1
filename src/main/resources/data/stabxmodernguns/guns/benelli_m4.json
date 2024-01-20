@@ -1,0 +1,65 @@
+{
+	"general": {
+		"auto": false,
+		"rate": 15,
+		"gripType": "cgm:two_handed",
+		"maxAmmo": 8,
+		"reloadAmount": 2,
+		"recoilAngle": 19,
+		"recoilKick": 3.5,
+		"recoilAdsReduction": 0.5,
+		"projectileAmount": 25,
+		"alwaysSpread": true,
+		"spread": 18.0
+	},
+	"projectile": {
+		"item": "stabxmodernguns:12gauge_buckshot_slug_shell_360",
+		"visible": false,
+		"gravity": true,
+		"damage": 37,
+		"size": 0.5,
+		"speed": 70,
+		"life": 85
+	},
+	"sounds": {
+		"fire": "stabxmodernguns:item.benelli_m4.fire",
+		"reload": "stabxmodernguns:item.benelli_m4.reload",
+		"cock": "stabxmodernguns:item.benelli_m4.cock",
+		"silencedFire": "stabxmodernguns:item.benelli_m4.suppressed"
+	},
+	"display": {
+		"flash": {
+			"yOffset": 3.5,
+			"zOffset": -22
+		}
+	},
+	"modules": {
+		"zoom": {
+			"fovModifier": 0.6,
+			"yOffset": 5,
+			"zOffset": 2.5
+		},
+		"attachments": {
+			"scope": {
+				"yOffset": 4.5,
+				"zOffset": 3.5,
+				"scale": 0.75
+			},
+			"barrel": {
+				"yOffset": 3.6,
+				"zOffset": -23.5,
+				"scale": 0
+			},
+			"underBarrel": {
+				"yOffset": 1.7,
+				"zOffset": -4,
+				"scale": 0
+			},
+			"stock": {
+				"yOffset": 2.4,
+				"zOffset": 9,
+				"scale": 0
+			}
+		}
+	}
+}

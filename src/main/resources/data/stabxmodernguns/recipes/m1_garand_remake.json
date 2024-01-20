@@ -1,0 +1,21 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "count": 80,
+      "item": "stabxmodernguns:gun_steel_ingot"
+    },
+    {
+      "count": 40,
+      "tag": "minecraft:planks"
+    },
+
+    {
+      "count": 2,
+      "item": "minecraft:gray_dye"
+    }
+  ],
+  "result": {
+    "item": "stabxmodernguns:m1_garand_remake"
+  }
+}

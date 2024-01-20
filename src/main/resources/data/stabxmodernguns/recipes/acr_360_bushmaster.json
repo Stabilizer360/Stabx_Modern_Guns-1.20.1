@@ -1,0 +1,24 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "count": 50,
+      "item": "stabxmodernguns:gun_steel_ingot"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:orange_dye"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:black_dye"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:gray_dye"
+    }
+  ],
+  "result": {
+    "item": "stabxmodernguns:acr_360_bushmaster"
+  }
+}

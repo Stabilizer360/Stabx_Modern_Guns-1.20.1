@@ -1,0 +1,24 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "stabxmodernguns:item/gui_icons/weapons/assault_rifles/hk416"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3.25, -2.75],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3.25, -2.75],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"translation": [-5.25, 6.5, 2.5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_lefthand": {
+			"translation": [-5.25, 6.5, 2.5],
+			"scale": [0.75, 0.75, 0.75]
+		}
+	}
+}

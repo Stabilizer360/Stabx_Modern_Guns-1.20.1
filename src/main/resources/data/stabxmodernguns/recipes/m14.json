@@ -1,0 +1,16 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "count": 78,
+      "item": "stabxmodernguns:gun_steel_ingot"
+    },
+    {
+      "count": 4,
+      "tag": "minecraft:planks"
+    }
+  ],
+  "result": {
+    "item": "stabxmodernguns:m14"
+  }
+}

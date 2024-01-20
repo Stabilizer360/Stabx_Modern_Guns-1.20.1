@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "gun_steel_ingot",
+  "key": {
+    "F": {
+      "item": "minecraft:iron_ingot"
+    },
+    "P": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "FP",
+    "PF"
+  ],
+  "result": {
+    "count": 2,
+    "item": "stabxmodernguns:gun_steel_ingot"
+  },
+  "show_notification": true
+}

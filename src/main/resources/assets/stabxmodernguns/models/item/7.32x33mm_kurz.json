@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "stabxmodernguns:item/gui_icons/ammunition/7.32x33mm_kurz"
+	}
+}

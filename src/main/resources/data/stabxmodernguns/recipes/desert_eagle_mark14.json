@@ -1,0 +1,12 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "count": 32,
+      "item": "stabxmodernguns:gun_steel_ingot"
+    }
+  ],
+  "result": {
+    "item": "stabxmodernguns:desert_eagle_mark14"
+  }
+}

@@ -1,0 +1,24 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "stabxmodernguns:item/gui_icons/weapons/lmgs/bruen_mk9"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 4.5, -6.5],
+			"scale": [1.17, 0.9, 0.9]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 4.5, -6.5],
+			"scale": [1.17, 0.9, 0.9]
+		},
+		"firstperson_righthand": {
+			"translation": [-6.05, 7.75, -0.7],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"translation": [-6.3, 7.75, -1.7],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
+}

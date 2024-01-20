@@ -1,0 +1,24 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "stabxmodernguns:item/gui_icons/weapons/lmgs/m60"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 4.5, -4.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 4.5, -4.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"translation": [-6.25, 7.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"translation": [-6.25, 7.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
+}

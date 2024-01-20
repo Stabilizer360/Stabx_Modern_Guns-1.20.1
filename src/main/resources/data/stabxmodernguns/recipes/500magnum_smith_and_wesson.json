@@ -1,0 +1,16 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "count": 35,
+      "item": "stabxmodernguns:gun_steel_ingot"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:black_dye"
+    }
+  ],
+  "result": {
+    "item": "stabxmodernguns:500magnum_smith_and_wesson"
+  }
+}

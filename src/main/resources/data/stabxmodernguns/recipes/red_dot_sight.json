@@ -1,0 +1,20 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "count": 5,
+      "item": "stabxmodernguns:gun_steel_ingot"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:glass_pane"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:red_dye"
+    }
+  ],
+  "result": {
+    "item": "stabxmodernguns:red_dot_sight"
+  }
+}

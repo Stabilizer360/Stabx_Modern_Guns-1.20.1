@@ -1,0 +1,24 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "stabxmodernguns:item/gui_icons/weapons/pistols/p226"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3.5, -6.25],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3.5, -6.25],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"translation": [-5.5, 7, -3.7],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"firstperson_lefthand": {
+			"translation": [-5.5, 6.75, -1.7],
+			"scale": [0.65, 0.65, 0.65]
+		}
+	}
+}

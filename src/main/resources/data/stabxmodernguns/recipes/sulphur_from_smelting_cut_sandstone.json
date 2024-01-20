@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 70,
+  "experience": 0.7,
+  "group": "sulphur",
+  "ingredient": {
+    "item": "minecraft:cut_sandstone"
+  },
+  "result": "stabxmodernguns:sulphur"
+}

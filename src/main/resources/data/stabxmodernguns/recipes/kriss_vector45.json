@@ -1,0 +1,16 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "count": 45,
+      "item": "stabxmodernguns:gun_steel_ingot"
+    },
+    {
+      "count": 5,
+      "item": "minecraft:black_dye"
+    }
+  ],
+  "result": {
+    "item": "stabxmodernguns:kriss_vector45"
+  }
+}

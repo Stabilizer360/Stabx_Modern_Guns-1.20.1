@@ -1,0 +1,22 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "stabxmodernguns:item/gui_icons/weapons/sniper_rifles/dragnaov_svd"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 5.25, -8.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 5.25, -8.5]
+		},
+		"firstperson_righthand": {
+			"translation": [-5.75, 9.15, -2.5],
+			"scale": [1.1, 1.1, 1.1]
+		},
+		"firstperson_lefthand": {
+			"translation": [-6.25, 9.5, -2.75],
+			"scale": [1.1, 1.1, 1.1]
+		}
+	}
+}
