@@ -3,16 +3,16 @@
   "category": "misc",
   "group": "gun_steel_ingot",
   "key": {
-    "F": {
-      "item": "minecraft:iron_ingot"
+    "S": {
+      "item": "stabxmodernguns:steel_dust"
     },
     "P": {
-      "item": "minecraft:iron_nugget"
+      "item": "minecraft:iron_ingot"
     }
   },
   "pattern": [
-    "FP",
-    "PF"
+    "SP",
+    "PS"
   ],
   "result": {
     "count": 2,

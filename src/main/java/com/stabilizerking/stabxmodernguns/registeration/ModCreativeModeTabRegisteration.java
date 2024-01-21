@@ -178,6 +178,7 @@ public class ModCreativeModeTabRegisteration {
                         event.accept(ModItemRegisteration.SULPHUR.get());
                         event.accept(ModItemRegisteration.GUN_STEEL_INGOT.get());
                         event.accept(ModItemRegisteration.SMOKELESS_GUNPOWDER.get());
+                        event.accept(ModItemRegisteration.STEEL_DUST.get());
 
                     })
                     .build());

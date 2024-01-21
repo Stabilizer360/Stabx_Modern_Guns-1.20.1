@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "steel_dust",
+  "key": {
+    "F": {
+      "item": "minecraft:raw_iron"
+    },
+    "P": {
+      "item": "minecraft:coal"
+    }
+  },
+  "pattern": [
+    "FP",
+    "PF"
+  ],
+  "result": {
+    "count": 4,
+    "item": "stabxmodernguns:steel_dust"
+  },
+  "show_notification": true
+}

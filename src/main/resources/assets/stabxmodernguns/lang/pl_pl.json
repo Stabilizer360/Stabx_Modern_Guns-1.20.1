@@ -101,10 +101,11 @@
   "item.stabxmodernguns.5.45x39mm": "5.45x39mm",
   "item.stabxmodernguns.303_british": ".303 Brytyjska",
 
+
   "item.stabxmodernguns.sulphur": "Sulphur",
+  "item.stabxmodernguns.steel_dust": "Stalowy pył",
   "item.stabxmodernguns.gun_steel_ingot": "Gun Steel Ingot",
   "item.stabxmodernguns.smokeless_gunpowder": "Smokeless gunpowder",
-
 
 
   "subtitle.stabxmodernguns.regular_fire": "Regularny wystrzal",
@@ -121,5 +122,5 @@
   "creativetab.lmgs": "Light Machine Guns",
   "creativetab.miscellaneous": "różnorodny",
   "creativetab.attachments_tab": "Załączniki",
-  "creativetab.ammunition_tab": "Amunicja",
+  "creativetab.ammunition_tab": "Amunicja"
 }

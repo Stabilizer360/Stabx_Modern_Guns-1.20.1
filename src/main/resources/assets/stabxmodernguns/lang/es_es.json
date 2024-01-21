@@ -55,7 +55,7 @@
   "item.stabxmodernguns.ratnik19": "Ratnik 19",
   "item.stabxmodernguns.hcar762": "Fusil De Combate HCAR 762",
   "item.stabxmodernguns.ro678x": "Subfusil Ro678x M4-9mm",
-  "item.stabxmodernguns.svch545": "Svch 545",
+  "item.stabxmodernguns.svch545": "Svch545",
   "item.stabxmodernguns.akx117": "AKx-117",
 
 
@@ -101,10 +101,11 @@
   "item.stabxmodernguns.5.45x39mm": "5.45x39mm",
   "item.stabxmodernguns.303_british": ".303 Britanica",
 
+
   "item.stabxmodernguns.sulphur": "Azufre",
+  "item.stabxmodernguns.steel_dust": "Polvo de acero",
   "item.stabxmodernguns.gun_steel_ingot": "Acero de armas",
   "item.stabxmodernguns.smokeless_gunpowder": "Pólvora sin humo",
-
 
 
   "subtitle.stabxmodernguns.regular_fire": "Disparo",
@@ -121,6 +122,5 @@
   "creativetab.lmgs": "Ametralladoras",
   "creativetab.miscellaneous": "Misceláneos",
   "creativetab.attachments_tab": "Accesorios",
-  "creativetab.ammunition_tab": "Municion",
-  "item.stabxmodernguns.light_stock": "Culata ligera"
+  "creativetab.ammunition_tab": "Municion"
 }
